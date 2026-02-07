@@ -1,4 +1,10 @@
-main
+header
 {
   background: rebeccapurple;
 }
+
+h1
+{
+  color: red;
+}
+
